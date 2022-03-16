@@ -31,9 +31,9 @@ git clone https://github.com/LinkYoni/Discord-Server-Info
 ## 📩 ➜ Output
 
   ```
-The results are exported to a folder with the server name, date and time of the query.
+The results are exported to a folder with the server ID, date and time of the query.
 ```
-<p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/953290589124825188/unknown.png"</p>
+<p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/953712170724638820/unknown.png"</p>
 
 ```
 The folder contains:
